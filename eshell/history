@@ -1,0 +1,7 @@
+l
+l
+pwd
+ls -lt
+echo $-
+pwd
+ls -lt

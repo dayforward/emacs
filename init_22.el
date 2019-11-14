@@ -1,0 +1,1 @@
+(setq exec-path (append exec-path '("/usr/local/Cellar/gdb/8.0.1/bin/")))
